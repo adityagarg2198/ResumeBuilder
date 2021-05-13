@@ -26,8 +26,8 @@ function App() {
         <ThemeProvider theme={theme}>
             <Header/>
             <Switch>
-              <Route exact path="https://adityagarg2198.github.io/ResumeBuilder/" component={Home}/>
-              <Route  path="https://adityagarg2198.github.io/ResumeBuilder/resume" component={Resume}/>
+              <Route exact path="/" component={Home}/>
+              <Route  path="/resume" component={Resume}/>
             </Switch>
             <Footer/>
       </ThemeProvider>
