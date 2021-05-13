@@ -26,9 +26,8 @@ function App() {
         <ThemeProvider theme={theme}>
             <Header/>
             <Switch>
-              <Route exact path="/" component={Home}/>
-              <Route  path="/resume" component={Resume}/>
-              <Route  path="/document" component={Document}/>
+              <Route exact path="ResumeBuilder/" component={Home}/>
+              <Route  path="ResumeBuilder/resume" component={Resume}/>
             </Switch>
             <Footer/>
       </ThemeProvider>
