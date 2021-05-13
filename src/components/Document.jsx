@@ -20,7 +20,7 @@ const useStyles=makeStyles({
 })
 const Document = () => {
     const classes=useStyles();
-    let page = document.getElementById('document');
+    var page = document.getElementById('document');
     const download=async()=>{
         const pdf = await html2PDF(page, {
              jsPDF: {
