@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ResumeBuilder/static/css/main.b8936668.chunk.css",
+    "main.js": "/ResumeBuilder/static/js/main.04fd4991.chunk.js",
+    "main.js.map": "/ResumeBuilder/static/js/main.04fd4991.chunk.js.map",
+    "runtime-main.js": "/ResumeBuilder/static/js/runtime-main.def8e928.js",
+    "runtime-main.js.map": "/ResumeBuilder/static/js/runtime-main.def8e928.js.map",
+    "static/js/2.6c95e2aa.chunk.js": "/ResumeBuilder/static/js/2.6c95e2aa.chunk.js",
+    "static/js/2.6c95e2aa.chunk.js.map": "/ResumeBuilder/static/js/2.6c95e2aa.chunk.js.map",
+    "static/js/3.0f46db95.chunk.js": "/ResumeBuilder/static/js/3.0f46db95.chunk.js",
+    "static/js/3.0f46db95.chunk.js.map": "/ResumeBuilder/static/js/3.0f46db95.chunk.js.map",
+    "static/js/4.e6f8bc7f.chunk.js": "/ResumeBuilder/static/js/4.e6f8bc7f.chunk.js",
+    "static/js/4.e6f8bc7f.chunk.js.map": "/ResumeBuilder/static/js/4.e6f8bc7f.chunk.js.map",
+    "index.html": "/ResumeBuilder/index.html",
+    "static/css/main.b8936668.chunk.css.map": "/ResumeBuilder/static/css/main.b8936668.chunk.css.map",
+    "static/js/2.6c95e2aa.chunk.js.LICENSE.txt": "/ResumeBuilder/static/js/2.6c95e2aa.chunk.js.LICENSE.txt",
+    "static/js/3.0f46db95.chunk.js.LICENSE.txt": "/ResumeBuilder/static/js/3.0f46db95.chunk.js.LICENSE.txt",
+    "static/js/4.e6f8bc7f.chunk.js.LICENSE.txt": "/ResumeBuilder/static/js/4.e6f8bc7f.chunk.js.LICENSE.txt",
+    "static/media/bg.f558ba32.jpg": "/ResumeBuilder/static/media/bg.f558ba32.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.def8e928.js",
+    "static/js/3.0f46db95.chunk.js",
+    "static/css/main.b8936668.chunk.css",
+    "static/js/main.04fd4991.chunk.js"
+  ]
+}
